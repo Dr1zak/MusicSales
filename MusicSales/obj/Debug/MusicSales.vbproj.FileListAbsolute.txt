@@ -1,0 +1,43 @@
+H:\DataBase\MusicSales\MusicSales\bin\Debug\MusicSales.exe.config
+d:\Users\201202187\Desktop\DataBase\MusicSales\MusicSales\bin\Debug\MusicSales.exe.config
+d:\Users\201202187\Desktop\DataBase\MusicSales\MusicSales\bin\Debug\MusicSales.exe
+d:\Users\201202187\Desktop\DataBase\MusicSales\MusicSales\bin\Debug\MusicSales.pdb
+d:\Users\201202187\Desktop\DataBase\MusicSales\MusicSales\bin\Debug\MusicSales.xml
+d:\Users\201202187\Desktop\DataBase\MusicSales\MusicSales\obj\Debug\MusicSales.Form1.resources
+d:\Users\201202187\Desktop\DataBase\MusicSales\MusicSales\obj\Debug\MusicSales.Resources.resources
+d:\Users\201202187\Desktop\DataBase\MusicSales\MusicSales\obj\Debug\MusicSales.vbproj.GenerateResource.Cache
+d:\Users\201202187\Desktop\DataBase\MusicSales\MusicSales\obj\Debug\MusicSales.exe
+d:\Users\201202187\Desktop\DataBase\MusicSales\MusicSales\obj\Debug\MusicSales.xml
+d:\Users\201202187\Desktop\DataBase\MusicSales\MusicSales\obj\Debug\MusicSales.pdb
+d:\Users\201202187\Desktop\Project\MusicSales\MusicSales\bin\Debug\MusicSales.exe.config
+d:\Users\201202187\Desktop\Project\MusicSales\MusicSales\obj\Debug\MusicSales.exe
+d:\Users\201202187\Desktop\Project\MusicSales\MusicSales\obj\Debug\MusicSales.xml
+d:\Users\201202187\Desktop\Project\MusicSales\MusicSales\obj\Debug\MusicSales.pdb
+d:\Users\201202187\Desktop\Project\MusicSales\MusicSales\bin\Debug\MusicSales.exe
+d:\Users\201202187\Desktop\Project\MusicSales\MusicSales\bin\Debug\MusicSales.pdb
+d:\Users\201202187\Desktop\Project\MusicSales\MusicSales\bin\Debug\MusicSales.xml
+d:\Users\201202187\Desktop\Project\MusicSales\MusicSales\obj\Debug\MusicSales.Form1.resources
+d:\Users\201202187\Desktop\Project\MusicSales\MusicSales\obj\Debug\MusicSales.Resources.resources
+d:\Users\201202187\Desktop\Project\MusicSales\MusicSales\obj\Debug\MusicSales.vbproj.GenerateResource.Cache
+d:\Users\201202187\Desktop\MusicSales\MusicSales\bin\Debug\MusicSales.exe.config
+d:\Users\201202187\Desktop\MusicSales\MusicSales\obj\Debug\MusicSales.exe
+d:\Users\201202187\Desktop\MusicSales\MusicSales\obj\Debug\MusicSales.xml
+d:\Users\201202187\Desktop\MusicSales\MusicSales\obj\Debug\MusicSales.pdb
+d:\Users\201202187\Desktop\MusicSales\MusicSales\bin\Debug\MusicSales.exe
+d:\Users\201202187\Desktop\MusicSales\MusicSales\bin\Debug\MusicSales.pdb
+d:\Users\201202187\Desktop\MusicSales\MusicSales\bin\Debug\MusicSales.xml
+d:\Users\201202187\Desktop\MusicSales\MusicSales\obj\Debug\MusicSales.Form1.resources
+d:\Users\201202187\Desktop\MusicSales\MusicSales\obj\Debug\MusicSales.Resources.resources
+d:\Users\201202187\Desktop\MusicSales\MusicSales\obj\Debug\MusicSales.vbproj.GenerateResource.Cache
+D:\University\University\2016-2017\Spring 2016-2017\Databases 1\MusicSales\MusicSales\bin\Debug\MusicSales.exe.config
+D:\University\University\2016-2017\Spring 2016-2017\Databases 1\MusicSales\MusicSales\bin\Debug\MusicSales.exe
+D:\University\University\2016-2017\Spring 2016-2017\Databases 1\MusicSales\MusicSales\bin\Debug\MusicSales.pdb
+D:\University\University\2016-2017\Spring 2016-2017\Databases 1\MusicSales\MusicSales\bin\Debug\MusicSales.xml
+D:\University\University\2016-2017\Spring 2016-2017\Databases 1\MusicSales\MusicSales\obj\Debug\MusicSales.vbprojAssemblyReference.cache
+D:\University\University\2016-2017\Spring 2016-2017\Databases 1\MusicSales\MusicSales\obj\Debug\MusicSales.Form1.resources
+D:\University\University\2016-2017\Spring 2016-2017\Databases 1\MusicSales\MusicSales\obj\Debug\MusicSales.Resources.resources
+D:\University\University\2016-2017\Spring 2016-2017\Databases 1\MusicSales\MusicSales\obj\Debug\MusicSales.vbproj.GenerateResource.cache
+D:\University\University\2016-2017\Spring 2016-2017\Databases 1\MusicSales\MusicSales\obj\Debug\MusicSales.vbproj.CoreCompileInputs.cache
+D:\University\University\2016-2017\Spring 2016-2017\Databases 1\MusicSales\MusicSales\obj\Debug\MusicSales.exe
+D:\University\University\2016-2017\Spring 2016-2017\Databases 1\MusicSales\MusicSales\obj\Debug\MusicSales.xml
+D:\University\University\2016-2017\Spring 2016-2017\Databases 1\MusicSales\MusicSales\obj\Debug\MusicSales.pdb
